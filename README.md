@@ -1,4 +1,4 @@
-# Useful-Open-Source-Tools
+# Useful Free/Open Source Tools
 
 ## Active Directory Security
 
@@ -17,3 +17,15 @@
 | --- | --- |
 |[Monkey365](https://github.com/silverhack/monkey365) | Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Microsoft Entra ID security configuration reviews |
 [SCUBAGear](https://github.com/cisagov/ScubaGear) | Automation to assess the state of your M365 tenant against CISA's baselines |
+
+## Cyber Threat Intelligence
+
+| Tool | Description |
+| --- | --- |
+|[OpenCTI](https://github.com/OpenCTI-Platform/opencti) | OpenCTI is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables |
+|[Open Source CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) | Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers |
+
+## Security Operations
+| Tool | Description |
+| --- | --- |
+|[Awesome SOC](https://github.com/cyb3rxp/awesome-soc) | A collection of sources of documentation, as well as field best practices, to build/run a SOC |
