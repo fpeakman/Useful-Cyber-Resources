@@ -10,6 +10,8 @@
 
 [Security Operations](#Security-Operations)
 
+[Lab Resources](#lab-resources)
+
 
 
 
@@ -47,8 +49,15 @@
 | --- | --- |
 |[OpenCTI](https://github.com/OpenCTI-Platform/opencti) | OpenCTI is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables |
 |[Open Source CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) | Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers |
+|[OpenSquat](https://github.com/atenreiro/opensquat) | The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands |
 
 ## Security Operations
 | Tool | Description |
 | --- | --- |
 |[Awesome SOC](https://github.com/cyb3rxp/awesome-soc) | A collection of sources of documentation, as well as field best practices, to build/run a SOC |
+
+## Lab Resources
+| Tool | Description |
+| --- | --- |
+|[Game of Active Directory](https://mayfly277.github.io/posts/GOADv2/) | Five system forest with vulnerabilities and multiple routes to DA|
+|[Vulnerable AD](https://github.com/safebuffer/vulnerable-AD) | Inject vulnerabilities in to an AD domain |
