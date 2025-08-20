@@ -1,5 +1,8 @@
 # Useful Free/Open Source Tools
 
+[Active Directory Security](##-Active-Directory-Security)
+[M365 Security](##-M365-Security)
+
 ## Active Directory Security
 
 | Tool | Description |
@@ -24,6 +27,7 @@
 | Tool | Description |
 | --- | --- |
 |[Azure Best Practices](https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns) | This article contains security best practices to use when you're designing, deploying, and managing your cloud solutions by using Azure. These best practices come from our experience with Azure security and the experiences of customers like you.|
+|[Azure Red Team](https://github.com/rootsecdev/Azure-Red-Team) | Azure Security Resources and Notes |
 
 ## Cyber Threat Intelligence
 
