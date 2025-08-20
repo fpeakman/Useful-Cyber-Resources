@@ -4,6 +4,14 @@
 
 [M365 Security](#M365-Security)
 
+[Azure Security](#Azure-Security)
+
+[Cyber Threat Intelligence](#Cyber-Threat-Intelligence)
+
+[Security Operations](#Security-Operations)
+
+
+
 ## Active Directory Security
 
 | Tool | Description |
