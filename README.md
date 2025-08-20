@@ -6,6 +6,8 @@
 
 [Azure Security](#Azure-Security)
 
+[Application Security](#application-security)
+
 [Cyber Threat Intelligence](#Cyber-Threat-Intelligence)
 
 [Security Operations](#Security-Operations)
@@ -41,7 +43,15 @@
 | --- | --- |
 |[Azure Best Practices](https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns) | This article contains security best practices to use when you're designing, deploying, and managing your cloud solutions by using Azure. These best practices come from our experience with Azure security and the experiences of customers like you.|
 |[Azure Red Team](https://github.com/rootsecdev/Azure-Red-Team) | Azure Security Resources and Notes |
-|[Azure Attack Paths](https://cloudbrothers.info/en/azure-attack-paths/) | 
+|[Azure Attack Paths](https://cloudbrothers.info/en/azure-attack-paths/) | Known Azure attack paths |
+
+## Application Security
+
+| Tools | Description |
+| --- | --- |
+|[ThreatMapper](https://github.com/deepfence/ThreatMapper) | Open Source Cloud Native Application Protection Platform cloud, containers, serverless and on-prem |
+|[DevSecOps Library](https://github.com/sottlmarek/DevSecOps) | This library contains list of tools and methodologies accompanied with resources. The main goal is to provide to the engineers a guide through opensource DevSecOps tooling |
+|[Web App Security Assessment Methodology](https://github.com/tprynn/web-methodology/wiki) | Web application security assessment methodology |
 
 ## Cyber Threat Intelligence
 
@@ -56,6 +66,7 @@
 | Tool | Description |
 | --- | --- |
 |[Awesome SOC](https://github.com/cyb3rxp/awesome-soc) | A collection of sources of documentation, as well as field best practices, to build/run a SOC |
+|[MS Entra SecOps Guide](https://learn.microsoft.com/en-us/entra/architecture/security-operations-introduction) | Microsoft Entra security operations guide |
 
 ## Lab Resources
 | Tool | Description |
