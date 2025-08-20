@@ -10,3 +10,10 @@
 |[Adeliginator](https://github.com/techspence/ADeleginator) | A companion tool that uses ADeleg to find insecure trustee and resource delegations in Active Directory |
 |[Group3r](https://github.com/Group3r/Group3r) | Find vulnerabilities in AD Group Policy |
 |[AD Attack Defence](https://github.com/infosecn1nja/AD-Attack-Defense) | Attack and defend active directory using modern post exploitation adversary tradecraft activity |
+
+## M365 Security
+
+| Tool | Description |
+| --- | --- |
+|[Monkey365](https://github.com/silverhack/monkey365) | Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Microsoft Entra ID security configuration reviews |
+[SCUBAGear](https://github.com/cisagov/ScubaGear) | Automation to assess the state of your M365 tenant against CISA's baselines |
