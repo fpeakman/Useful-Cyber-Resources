@@ -128,7 +128,7 @@ A list of free or open source tools or resources that have proven useful over th
 ## Org OSINT
 | Tool | Description |
 | --- | --- |
-|[DNSDumpster(https://dnsdumpster.com/) | DNSDumpster.com is a FREE domain research tool that can discover hosts related to a domain |
+|[DNSDumpster](https://dnsdumpster.com/) | DNSDumpster.com is a FREE domain research tool that can discover hosts related to a domain |
 |[AADInternals OSINT](https://aadinternals.com/osint/) | This Open-source Intelligence (OSINT) tool will extract openly available information for the given tenant |
 |[Internet NL](https://internet.nl/) | Test websites and email addresses for standards |
 |[Cert Search](https://crt.sh/) | Enter a Domain Name, Organization Name, or a Certificate Fingerprint to retrieve a trove of current and historic cert data |
