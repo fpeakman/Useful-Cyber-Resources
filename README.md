@@ -11,6 +11,7 @@ A list of free or open source tools or resources that have proven useful over th
 * [Detection Engineering](#Detection-engineering)
 * [Block Lists](#Block-Lists)
 * [Security Operations](#Security-Operations)
+* [Organisation OSINT](#Org-OSINT)
 * [Lab Resources](#lab-resources)
 * [Cheat Sheets](#Cheat-Sheets)
 
@@ -85,6 +86,15 @@ A list of free or open source tools or resources that have proven useful over th
 | --- | --- |
 |[Awesome SOC](https://github.com/cyb3rxp/awesome-soc) | A collection of sources of documentation, as well as field best practices, to build/run a SOC |
 |[MS Entra SecOps Guide](https://learn.microsoft.com/en-us/entra/architecture/security-operations-introduction) | Microsoft Entra security operations guide |
+
+### Org OSINT
+| Tool | Description |
+| --- | --- |
+|[DNSDumpster(https://dnsdumpster.com/) | DNSDumpster.com is a FREE domain research tool that can discover hosts related to a domain |
+|[AADInternals OSINT](https://aadinternals.com/osint/) | This Open-source Intelligence (OSINT) tool will extract openly available information for the given tenant |
+|[Internet NL](https://internet.nl/) | Test websites and email addresses for standards |
+|[Cert Search](https://crt.sh/) | Enter a Domain Name, Organization Name, or a Certificate Fingerprint to retrieve a trove of current and historic cert data |
+
 
 ### Lab Resources
 | Tool | Description |
