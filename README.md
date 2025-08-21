@@ -1,5 +1,5 @@
 # Useful Free/Open Source Tools/Resources
-A list of free or open source tools or resources that I have found useful over the years.
+A list of free or open source tools or resources that have come in useful over the years.
 
 ## Table of Contents
 * [Active Directory Security](#active-directory-security)
