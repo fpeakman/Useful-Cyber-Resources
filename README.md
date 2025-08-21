@@ -3,15 +3,16 @@ A list of free or open source tools or resources that have proven useful over th
 
 ## Table of Contents
 * [Security Engineering](#Security-Egineering)
-  * [Active Directory Security](#active-directory-security)
-  * [M365 Security](#M365-Security)
-  * [Azure Security](#Azure-Security)
-  * [OS Security](#OS-Security)
-  * [Application Security](#application-security)
-* [Cyber Threat Intelligence](#Cyber-Threat-Intelligence)
-* [Detection Engineering](#Detection-engineering)
-* [Block Lists](#Block-Lists)
+ * [Active Directory Security](#active-directory-security)
+ * [M365 Security](#M365-Security)
+ * [Azure Security](#Azure-Security)
+ * [OS Security](#OS-Security)
+ * [Application Security](#application-security)
 * [Security Operations](#Security-Operations)
+ * [Detection Engineering](#Detection-engineering)
+ * [Cyber Threat Intelligence](#Cyber-Threat-Intelligence)
+ * [SOC](#Security-Operations)
+* [Block Lists](#Block-Lists)
 * [Organisation OSINT](#Org-OSINT)
 * [Lab Resources](#lab-resources)
 * [Cheat Sheets](#Cheat-Sheets)
@@ -57,14 +58,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[DevSecOps Library](https://github.com/sottlmarek/DevSecOps) | This library contains list of tools and methodologies accompanied with resources. The main goal is to provide to the engineers a guide through opensource DevSecOps tooling |
 |[Web App Security Assessment Methodology](https://github.com/tprynn/web-methodology/wiki) | Web application security assessment methodology |
 
-### Cyber Threat Intelligence
-| Tool | Description |
-| --- | --- |
-|[Bert-JanP Threat Intel Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds) | Open Source freely usable Threat Intel feeds that can be used without additional requirements |
-|[OpenCTI](https://github.com/OpenCTI-Platform/opencti) | OpenCTI is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables |
-|[Open Source CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) | Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers |
-|[OpenSquat](https://github.com/atenreiro/opensquat) | The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands |
-|[Threat Intelligence Platforms](https://gist.github.com/Te-k/2a5a1885249cfd07f417b47d291c4b98) | A list of threat intelligence platforms |
+## Security Operations
 
 ### Detection Engineering
 | Tool | Description |
@@ -73,6 +67,15 @@ A list of free or open source tools or resources that have proven useful over th
 |[Bert JanP Queries](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) | Library of KQL detection and hunting queries from [Bert JanP](https://github.com/Bert-JanP) |
 |[Anvillogic Forge](https://github.com/anvilogic-forge/armory) | Library of sigma detection rules |
 |[MAGMa Use Case Framework](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf) | MaGMa: a framework and tool for use case management |
+
+### Cyber Threat Intelligence
+| Tool | Description |
+| --- | --- |
+|[Bert-JanP Threat Intel Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds) | Open Source freely usable Threat Intel feeds that can be used without additional requirements |
+|[OpenCTI](https://github.com/OpenCTI-Platform/opencti) | OpenCTI is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables |
+|[Open Source CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) | Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers |
+|[OpenSquat](https://github.com/atenreiro/opensquat) | The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands |
+|[Threat Intelligence Platforms](https://gist.github.com/Te-k/2a5a1885249cfd07f417b47d291c4b98) | A list of threat intelligence platforms |
 
 ### Block Lists 
 | Blocklist | Confidence | Description |
