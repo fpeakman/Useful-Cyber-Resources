@@ -7,6 +7,7 @@ A list of free or open source tools or resources that have come in useful over t
 * [Azure Security](#Azure-Security)
 * [Application Security](#application-security)
 * [Cyber Threat Intelligence](#Cyber-Threat-Intelligence)
+* [Detection Engineering](#Detection-engineering)
 * [Block Lists](#Block-Lists)
 * [Security Operations](#Security-Operations)
 * [Lab Resources](#lab-resources)
@@ -51,6 +52,12 @@ A list of free or open source tools or resources that have come in useful over t
 |[Open Source CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) | Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers |
 |[OpenSquat](https://github.com/atenreiro/opensquat) | The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands |
 |[Threat Intelligence Platforms](https://gist.github.com/Te-k/2a5a1885249cfd07f417b47d291c4b98) | A list of threat intelligence platforms |
+
+### Detection Engineering
+| Tool | Description |
+| --- | --- |
+|[DetEng Resources](https://github.com/infosecB/awesome-detection-engineering) | List of DetEng resources |
+|[Bert JanP Queries](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) | Library of detection and hunting queries from a master |
 
 ### Block Lists 
 | Blocklist | Description |
