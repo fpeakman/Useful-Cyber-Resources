@@ -57,7 +57,8 @@ A list of free or open source tools or resources that have come in useful over t
 | Tool | Description |
 | --- | --- |
 |[DetEng Resources](https://github.com/infosecB/awesome-detection-engineering) | List of DetEng resources |
-|[Bert JanP Queries](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) | Library of detection and hunting queries from a master |
+|[Bert JanP Queries](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) | Library of KQL detection and hunting queries from a master |
+|[Anvillogic Forge](https://github.com/anvilogic-forge/armory) | Library of sigma detection rules |
 
 ### Block Lists 
 | Blocklist | Description |
