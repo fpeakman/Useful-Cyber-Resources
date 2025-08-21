@@ -43,6 +43,8 @@ A list of free or open source tools or resources that have proven useful over th
 ### OS Security
 | Tool | Description |
 | --- | --- |
+|[PrivEscCheck](https://github.com/itm4n/PrivescCheck) | Windows. Privilege Escalation Enumeration Script for Windows |
+|[Security Hardening](https://github.com/decalage2/awesome-security-hardening) | Various. Security hardening guides, best practices, checklists, benchmarks, tools and other resources |
 [AppLockerInspector](https://github.com/techspence/AppLockerInspector) | Windows. Audits an AppLocker policy XML and reports weak/misconfigured/risky settings, including actual ACL checks |
 
 ### Application Security
