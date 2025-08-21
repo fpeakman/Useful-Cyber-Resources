@@ -7,12 +7,10 @@ A list of free or open source tools or resources that I have found useful over t
 * [Azure Security](#Azure-Security)
 * [Application Security](#application-security)
 * [Cyber Threat Intelligence](#Cyber-Threat-Intelligence)
+* [Block Lists](#Block-Lists)
 * [Security Operations](#Security-Operations)
 * [Lab Resources](#lab-resources)
-
-
-
-
+* [Cheat Sheets](#Cheat-Sheets)
 
 ### Active Directory Security
 | Tool | Description |
@@ -53,6 +51,14 @@ A list of free or open source tools or resources that I have found useful over t
 |[OpenSquat](https://github.com/atenreiro/opensquat) | The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands |
 |[Threat Intelligence Platforms](https://gist.github.com/Te-k/2a5a1885249cfd07f417b47d291c4b98) | A list of threat intelligence platforms |
 
+### Block Lists 
+| Blocklist | Description |
+| --- | --- |
+|[SANS top 20 subnets](https://isc.sans.edu/block.txt) | Top 20 attacking /24 subnets over the last 72 hours from [SANS DShield](https://dshield.org/)|
+|[Proofpoint Compromised IPs](https://rules.emergingthreats.net/blockrules/compromised-ips.txt) | IPs confirmed as compromised by [Proofpoint Emerging Threats](https://rules.emergingthreats.net/)|
+|[Firehol Level 1](https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level1.netset) | Collated list of subnets that can be blocked on all systems with high confidence, fom [Firehol](https://iplists.firehol.org/) |
+|[Phishing Database](https://github.com/Phishing-Database/Phishing.Database) | Phishing Domains, urls websites and threats database |
+
 ### Security Operations
 | Tool | Description |
 | --- | --- |
@@ -64,3 +70,12 @@ A list of free or open source tools or resources that I have found useful over t
 | --- | --- |
 |[Game of Active Directory](https://mayfly277.github.io/posts/GOADv2/) | Five system forest with vulnerabilities and multiple routes to DA|
 |[Vulnerable AD](https://github.com/safebuffer/vulnerable-AD) | Inject vulnerabilities in to an AD domain |
+
+### Cheat Sheets
+| Sheet | Description |
+| --- | --- |
+|[OWASP](https://cheatsheetseries.owasp.org/) | The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics.|
+|[Application Security](https://0xn3va.gitbook.io/cheat-sheets) | A list of cheat sheets for application security. Android, CI/CD, AWS, Container, Linux, Web Apps, Web Application |
+|[Reverse Shell](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) | Reverse Shell Cheat Sheet |
+|[Privilege Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) | This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples |
+|[Red Teaming](https://github.com/0xJs/RedTeaming_CheatSheet) | Pentesting Cheat Sheet |
