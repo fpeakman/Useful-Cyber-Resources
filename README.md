@@ -1,6 +1,4 @@
 # Useful Free/Open Source Tools/Resources
-
-## Summary
 A list of free or open source tools or resources that I have found useful over the years.
 
 ## Table of Contents
