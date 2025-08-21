@@ -59,6 +59,7 @@ A list of free or open source tools or resources that have come in useful over t
 |[DetEng Resources](https://github.com/infosecB/awesome-detection-engineering) | List of DetEng resources |
 |[Bert JanP Queries](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) | Library of KQL detection and hunting queries from a master |
 |[Anvillogic Forge](https://github.com/anvilogic-forge/armory) | Library of sigma detection rules |
+|[MAGMa Use Case Framework](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf) | MaGMa: a framework and tool for use case management |
 
 ### Block Lists 
 | Blocklist | Description |
