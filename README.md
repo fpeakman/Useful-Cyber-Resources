@@ -62,13 +62,13 @@ A list of free or open source tools or resources that have come in useful over t
 |[MAGMa Use Case Framework](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf) | MaGMa: a framework and tool for use case management |
 
 ### Block Lists 
-| Blocklist | Description |
-| --- | --- |
-|[SANS top 20 subnets](https://isc.sans.edu/block.txt) | *High Confidence* - Top 20 attacking /24 subnets over the last 72 hours from [SANS DShield](https://dshield.org/)|
-|[Proofpoint Compromised IPs](https://rules.emergingthreats.net/blockrules/compromised-ips.txt) | *High Confidence* - IPs confirmed as compromised by [Proofpoint Emerging Threats](https://rules.emergingthreats.net/)|
-|[Firehol Level 1](https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level1.netset) | *High Confidence* - Collated list of subnets that can be blocked on all systems with high confidence, fom [Firehol](https://iplists.firehol.org/) |
-|[Phishing Database](https://github.com/Phishing-Database/Phishing.Database) | *Various* - Phishing Domains, urls websites and threats database |
-|[Zeltser Blocklists](https://zeltser.com/malicious-ip-blocklists/) | *Various* - Free Blocklists of Suspected Malicious IPs and URLs |
+| Blocklist | Confidence | Description |
+| --- | --- | --- | 
+|[SANS top 20 subnets](https://isc.sans.edu/block.txt) | High | Top 20 attacking /24 subnets over the last 72 hours from [SANS DShield](https://dshield.org/)|
+|[Proofpoint Compromised IPs](https://rules.emergingthreats.net/blockrules/compromised-ips.txt) | High | IPs confirmed as compromised by [Proofpoint Emerging Threats](https://rules.emergingthreats.net/)|
+|[Firehol Level 1](https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level1.netset) | High | Collated list of subnets that can be blocked on all systems with high confidence, fom [Firehol](https://iplists.firehol.org/) |
+|[Phishing Database](https://github.com/Phishing-Database/Phishing.Database) | Mixed | Phishing Domains, urls websites and threats database |
+|[Zeltser Blocklists](https://zeltser.com/malicious-ip-blocklists/) | Mixed | Free Blocklists of Suspected Malicious IPs and URLs |
 
 ### Security Operations
 | Tool | Description |
