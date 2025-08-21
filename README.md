@@ -26,6 +26,8 @@ A list of free or open source tools or resources that have proven useful over th
 ### M365 Security
 | Tool | Description |
 | --- | --- |
+|[Conditional Access Baseline](https://github.com/j0eyv/ConditionalAccessBaseline) | [Joey Verlinden's](https://github.com/j0eyv) Conditional access Baseline |
+|[Risk Based CAPs](https://github.com/nathanmcnulty/nathanmcnulty/tree/main/Entra/conditional-access/risk-policies) | [Nathan McNulty's](https://github.com/nathanmcnulty) Risk Based Conditional Access Policies |
 |[Monkey365](https://github.com/silverhack/monkey365) | Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Microsoft Entra ID security configuration reviews |
 |[SCUBAGear](https://github.com/cisagov/ScubaGear) | Automation to assess the state of your M365 tenant against CISA's baselines |
 |[Least Privileged Roles by Task](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/delegate-by-task) | This article describes the least privileged role you should use for several tasks in Microsoft Entra ID |
@@ -36,6 +38,11 @@ A list of free or open source tools or resources that have proven useful over th
 |[Azure Best Practices](https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns) | This article contains security best practices to use when you're designing, deploying, and managing your cloud solutions by using Azure. These best practices come from our experience with Azure security and the experiences of customers like you.|
 |[Azure Red Team](https://github.com/rootsecdev/Azure-Red-Team) | Azure Security Resources and Notes |
 |[Azure Attack Paths](https://cloudbrothers.info/en/azure-attack-paths/) | Known Azure attack paths |
+
+### OS Security
+| Tool | Description |
+| --- | --- |
+[AppLockerInspector](https://github.com/techspence/AppLockerInspector) | Windows. Audits an AppLocker policy XML and reports weak/misconfigured/risky settings, including actual ACL checks |
 
 ### Application Security
 | Tools | Description |
