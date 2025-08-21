@@ -9,6 +9,7 @@ A list of free or open source tools or resources that have proven useful over th
   * [OS Security](#OS-Security)
   * [Application Security](#application-security)
 * [Security Operations](#Security-Operations)
+  * [Incident Response](#Incident-response)
   * [Detection Engineering](#Detection-engineering)
   * [Cyber Threat Intelligence](#Cyber-Threat-Intelligence)
   * [Deception](#Deception)
@@ -60,6 +61,13 @@ A list of free or open source tools or resources that have proven useful over th
 |[Web App Security Assessment Methodology](https://github.com/tprynn/web-methodology/wiki) | Web application security assessment methodology |
 
 ## Security Operations
+
+### Incident Response
+| Tool | Description |
+| --- | --- |
+|[Microsoft IT Ninja Hub](https://aka.ms/MicrosoftIRNinjaHub) | Microsoft Incident Response Ninja Hub |
+|[NIST IR Reccomendations](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r3.pdf) | Help organizations incorporate cybersecurity incident response recommendations and considerations throughout their cybersecurity risk management activities |
+|[IR Playbooks](https://github.com/certsocietegenerale/IRM) | List of best practice playbooks for a variety of security incidents |
 
 ### Detection Engineering
 | Tool | Description |
