@@ -28,7 +28,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Locksmith](https://github.com/jakehildreth/Locksmith) | A small tool built to find and fix common misconfigurations in Active Directory Certificate Services |
 |[Adeliginator](https://github.com/techspence/ADeleginator) | A companion tool that uses ADeleg to find insecure trustee and resource delegations in Active Directory |
 |[Group3r](https://github.com/Group3r/Group3r) | Find vulnerabilities in AD Group Policy |
-|[AD Attack Defence](https://github.com/infosecn1nja/AD-Attack-Defense) | Attack and defend active directory using modern post exploitation adversary tradecraft activity |
+|[AD Attack Defence](https://github.com/infosecn1nja/AD-Attack-Defense) | Informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. |
 
 ### M365 Security
 | Tool | Description |
