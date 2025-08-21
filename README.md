@@ -86,6 +86,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Modern Honeypot Network](https://github.com/pwnlandia/mhn) | Centralized server for management and data collection of honeypots |
 |[Certiception](https://github.com/dmore/Certiception-ADCS-trap) | An ADCS honeypot to catch attackers in your internal network |
 |[Kerberoasting Honeypot](https://www.pentestpartners.com/security-blog/honeyroasting-how-to-detect-kerberoast-breaches-with-honeypots/) | Create and monitor a kerberoastable honeypot to detect this type of attack |
+|[Honeypot Accounts](https://www.hub.trimarcsecurity.com/post/the-art-of-the-honeypot-account-making-the-unusual-look-normal) | The Art of Honeypot Account Making: Making the unusual look normal |
 
 ### Security Operations Centre
 | Tool | Description |
@@ -101,6 +102,8 @@ A list of free or open source tools or resources that have proven useful over th
 | --- | --- |
 |[CISO Assistant](https://github.com/intuitem/ciso-assistant-community) | CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec, Compliance/Audit Management, Privacy and supporting +100 frameworks |
 |[OpenBAS](https://github.com/OpenBAS-Platform/openbas) | An open source platform allowing organizations to plan, schedule and conduct cyber adversary simulation campaign and tests |
+|[Mergers and Acquisitions](https://www.microsoft.com/en-us/security/blog/2022/11/02/microsoft-security-tips-for-mitigating-risk-in-mergers-and-acquisitions/) | Security tips for mitigating risk in mergers and acquisitions |
+
 
 ## Block Lists 
 | Blocklist | Confidence | Description |
