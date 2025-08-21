@@ -11,6 +11,7 @@ A list of free or open source tools or resources that have proven useful over th
 * [Security Operations](#Security-Operations)
   * [Detection Engineering](#Detection-engineering)
   * [Cyber Threat Intelligence](#Cyber-Threat-Intelligence)
+  * [Deception](#Deception)
   * [SOC](#Security-Operations)
 * [Block Lists](#Block-Lists)
 * [Organisation OSINT](#Org-OSINT)
@@ -77,7 +78,23 @@ A list of free or open source tools or resources that have proven useful over th
 |[OpenSquat](https://github.com/atenreiro/opensquat) | The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands |
 |[Threat Intelligence Platforms](https://gist.github.com/Te-k/2a5a1885249cfd07f417b47d291c4b98) | A list of threat intelligence platforms |
 
-### Block Lists 
+### Deception
+| Tool | Description |
+| --- | --- |
+|[Certiception](https://github.com/dmore/Certiception-ADCS-trap) | An ADCS honeypot to catch attackers in your internal network |
+
+### Security Operations Centre
+| Tool | Description |
+| --- | --- |
+|[Awesome SOC](https://github.com/cyb3rxp/awesome-soc) | A collection of sources of documentation, as well as field best practices, to build/run a SOC |
+|[MS Entra SecOps Guide](https://learn.microsoft.com/en-us/entra/architecture/security-operations-introduction) | Microsoft Entra security operations guide |
+
+## Security Governance
+| Tool | Description |
+| --- | --- |
+|[CISO Assistant](https://github.com/intuitem/ciso-assistant-community) | CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec, Compliance/Audit Management, Privacy and supporting +100 frameworks |
+
+## Block Lists 
 | Blocklist | Confidence | Description |
 | --- | --- | --- | 
 |[SANS top 20 subnets](https://isc.sans.edu/block.txt) | High | Top 20 attacking /24 subnets over the last 72 hours from [SANS DShield](https://dshield.org/)|
@@ -86,13 +103,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Phishing Database](https://github.com/Phishing-Database/Phishing.Database) | Mixed | Phishing Domains, urls websites and threats database |
 |[Zeltser Blocklists](https://zeltser.com/malicious-ip-blocklists/) | Mixed | Free Blocklists of Suspected Malicious IPs and URLs |
 
-### Security Operations
-| Tool | Description |
-| --- | --- |
-|[Awesome SOC](https://github.com/cyb3rxp/awesome-soc) | A collection of sources of documentation, as well as field best practices, to build/run a SOC |
-|[MS Entra SecOps Guide](https://learn.microsoft.com/en-us/entra/architecture/security-operations-introduction) | Microsoft Entra security operations guide |
-
-### Org OSINT
+## Org OSINT
 | Tool | Description |
 | --- | --- |
 |[DNSDumpster(https://dnsdumpster.com/) | DNSDumpster.com is a FREE domain research tool that can discover hosts related to a domain |
@@ -101,14 +112,13 @@ A list of free or open source tools or resources that have proven useful over th
 |[Cert Search](https://crt.sh/) | Enter a Domain Name, Organization Name, or a Certificate Fingerprint to retrieve a trove of current and historic cert data |
 |[NetBlockTool](https://www.netspi.com/blog/technical-blog/network-penetration-testing/netblocktool/) | Find Net Blocks owned by a company and its subsidiaries |
 
-
-### Lab Resources
+## Lab Resources
 | Tool | Description |
 | --- | --- |
 |[Game of Active Directory](https://mayfly277.github.io/posts/GOADv2/) | Five system forest with vulnerabilities and multiple routes to DA|
 |[Vulnerable AD](https://github.com/safebuffer/vulnerable-AD) | Inject vulnerabilities in to an AD domain |
 
-### Cheat Sheets
+## Cheat Sheets
 | Sheet | Description |
 | --- | --- |
 |[OWASP](https://cheatsheetseries.owasp.org/) | The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics.|
