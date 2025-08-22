@@ -60,6 +60,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[DevSecOps Library](https://github.com/sottlmarek/DevSecOps) | This library contains list of tools and methodologies accompanied with resources. The main goal is to provide to the engineers a guide through opensource DevSecOps tooling |
 |[Web App Security Assessment Methodology](https://github.com/tprynn/web-methodology/wiki) | Web application security assessment methodology |
 |[SharpSCCM](https://github.com/Mayyhem/SharpSCCM/wiki) | SharpSCCM is a post-exploitation tool designed to leverage Microsoft Endpoint Configuration Manager (a.k.a. ConfigMgr, formerly SCCM) for credential gathering and lateral movement without requiring access to the SCCM administration console GUI. |
+|[SCCMHunter](https://github.com/garrettfoster13/sccmhunter) | SCCMHunter is a post-ex tool built to streamline identifying, profiling, and attacking SCCM related assets in an Active Directory domain |
 
 ## Security Operations
 
@@ -69,6 +70,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Microsoft IT Ninja Hub](https://aka.ms/MicrosoftIRNinjaHub) | Microsoft Incident Response Ninja Hub |
 |[NIST IR Reccomendations](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r3.pdf) | Help organizations incorporate cybersecurity incident response recommendations and considerations throughout their cybersecurity risk management activities |
 |[IR Playbooks](https://github.com/certsocietegenerale/IRM) | List of best practice playbooks for a variety of security incidents |
+|[ADS Strategy Framework](https://github.com/palantir/alerting-detection-strategy-framework) | A framework for developing alerting and detection strategies for incident response |
 
 ### Detection Engineering
 | Tool | Description |
@@ -107,6 +109,14 @@ A list of free or open source tools or resources that have proven useful over th
 |[VM Metrics](https://purplesec.us/learn/vulnerability-management-metrics) | The top 10 vulnerability management metrics you should be measuring |
 |[Purple Team Framework](https://github.com/scythe-io/purple-team-exercise-framework) | Purple Team Exercise Framework |
 
+## Security Testing
+| Tool | Description |
+| --- | --- |
+|[Impacket](https://github.com/fortra/impacket) | Impacket is a collection of Python classes for working with network protocols. Impacket is focused on providing low-level programmatic access to the packets and for some protocols (e.g. SMB1-3 and MSRPC) the protocol implementation itself |
+|[Responder](https://github.com/lgandx/Responder) | Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication |
+|[SQLMap](https://github.com/sqlmapproject/sqlmap) | sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers |
+|[SecLists(https://github.com/danielmiessler/SecLists/tree/master) | A collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more |
+
 ## Security Governance
 | Tool | Description |
 | --- | --- |
@@ -124,6 +134,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Firehol Level 1](https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level1.netset) | High | Collated list of subnets that can be blocked on all systems with high confidence, from [Firehol](https://iplists.firehol.org/) |
 |[Phishing Database](https://github.com/Phishing-Database/Phishing.Database) | Mixed | Phishing Domains, urls websites and threats database |
 |[Zeltser Blocklists](https://zeltser.com/malicious-ip-blocklists/) | Mixed | Free Blocklists of Suspected Malicious IPs and URLs |
+|[LOTS Project](https://lots-project.com/#) | Mixed | Attackers are using popular legitimate domains when conducting phishing, C&C, exfiltration and downloading tools to evade detection. This list of websites allow attackers to use their domain or subdomain |
 
 ## Org OSINT
 | Tool | Description |
