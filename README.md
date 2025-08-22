@@ -74,6 +74,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Talos](https://www.talosintelligence.com/reputation_center) | The Talos Intelligence Center is the world’s most comprehensive real-time threat detection network |
 |[MXToolbox](https://mxtoolbox.com/) | All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool |
 |[VirusTotal](https://www.virustotal.com/gui/home/upload) | Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, *automatically share them with the security community* |
+|[SOCRadar](https://socradar.io/labs/) | SOCRadar LABS is a new and developing platform which informs users about existing and possible cyber threats with the help of several cyber threat intelligence services |
 
 ### Incident Response Management
 | Tool | Description |
@@ -100,6 +101,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[OpenSquat](https://github.com/atenreiro/opensquat) | The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands |
 |[Threat Intelligence Platforms](https://gist.github.com/Te-k/2a5a1885249cfd07f417b47d291c4b98) | A list of threat intelligence platforms |
 |[DarkDump](https://github.com/josh0xA/darkdump) | OSINT interface for carrying out deep web investgations |
+|[DNSTwist](https://dnstwist.it/) | See what sort of trouble users can get in trying to type your domain name. Find lookalike domains that adversaries can use to attack you. Can detect typosquatters, phishing attacks, fraud, and brand impersonation. Useful as an additional source of targeted threat intelligence |
 
 ### Deception
 | Tool | Description |
