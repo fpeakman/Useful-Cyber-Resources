@@ -12,6 +12,7 @@ A list of free or open source tools or resources that have proven useful over th
   * [Incident Response Tactical](#Incident-response-tactical)
   * [Incident Response Management](#Incident-response-management)
   * [Detection Engineering](#Detection-engineering)
+  * [THreat Hunting](#Threat-Hunting)
   * [Cyber Threat Intelligence](#Cyber-Threat-Intelligence)
   * [Deception](#Deception)
   * [SOC](#Security-Operations-centre)
@@ -31,6 +32,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Adeliginator](https://github.com/techspence/ADeleginator) | A companion tool that uses ADeleg to find insecure trustee and resource delegations in Active Directory |
 |[Group3r](https://github.com/Group3r/Group3r) | Find vulnerabilities in AD Group Policy |
 |[AD Attack Defence](https://github.com/infosecn1nja/AD-Attack-Defense) | Informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. |
+|[AD Hardening](https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/active-directory-hardening-series---part-1-%e2%80%93-disabling-ntlmv1/3934787) | Active Directory Hardening Series from Microsoft |
 
 ### M365 Security
 | Tool | Description |
@@ -44,13 +46,15 @@ A list of free or open source tools or resources that have proven useful over th
 ### Azure Security
 | Tool | Description |
 | --- | --- |
-|[Azure Best Practices](https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns) | This article contains security best practices to use when you're designing, deploying, and managing your cloud solutions by using Azure. These best practices come from our experience with Azure security and the experiences of customers like you.|
+|[Azure Best Practices](https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns) | This article contains security best practices to use when you're designing, deploying, and managing your cloud solutions by using Azure. These best practices come from our experience with Azure security and the experiences of customers like you |
+|[Azure Security Assessment](https://github.com/NetSPI/MicroBurst) | Functions and scripts that support Azure Services discovery, weak configuration auditing, and post exploitation actions such as credential dumping |
 |[Azure Red Team](https://github.com/rootsecdev/Azure-Red-Team) | Azure Security Resources and Notes |
 |[Azure Attack Paths](https://cloudbrothers.info/en/azure-attack-paths/) | Known Azure attack paths |
 
 ### OS Security
 | Tool | Description |
 | --- | --- |
+|[Harden Windows Security](https://github.com/HotCakeX/Harden-Windows-Security) | Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation |
 |[PrivEscCheck](https://github.com/itm4n/PrivescCheck) | Windows. Privilege Escalation Enumeration Script for Windows |
 |[Security Hardening](https://github.com/decalage2/awesome-security-hardening) | Various. Security hardening guides, best practices, checklists, benchmarks, tools and other resources |
 [AppLockerInspector](https://github.com/techspence/AppLockerInspector) | Windows. Audits an AppLocker policy XML and reports weak/misconfigured/risky settings, including actual ACL checks |
@@ -98,6 +102,7 @@ A list of free or open source tools or resources that have proven useful over th
 | --- | --- |
 |[PEAK TH Framework](https://www.splunk.com/en_us/blog/security/peak-threat-hunting-framework.html) | Prepare, Execute and Act with Knowledge |
 |[Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) | Curated list of Thrreat Hunting Resources |
+|[THreat Hunting Lists](https://github.com/mthcht/awesome-lists/tree/main) | Threat Hunting lists a nd keywords |
 
 ### Cyber Threat Intelligence
 | Tool | Description |
@@ -137,6 +142,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Impacket](https://github.com/fortra/impacket) | Impacket is a collection of Python classes for working with network protocols. Impacket is focused on providing low-level programmatic access to the packets and for some protocols (e.g. SMB1-3 and MSRPC) the protocol implementation itself |
 |[Responder](https://github.com/lgandx/Responder) | Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication |
 |[SQLMap](https://github.com/sqlmapproject/sqlmap) | sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers |
+|[NetExec](https://github.com/Pennyw0rth/NetExec) | The Network Execution Tool. See: [SMB Checklist](https://0xdf.gitlab.io/cheatsheets/smb-enum) |
 |[DefendNot](https://github.com/es3n1n/defendnot) | Simple attempt to break Defender |
 |[SecLists](https://github.com/danielmiessler/SecLists/tree/master) | A collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more |
 
@@ -184,3 +190,4 @@ A list of free or open source tools or resources that have proven useful over th
 |[Reverse Shell](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) | Reverse Shell Cheat Sheet |
 |[Privilege Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) | This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples |
 |[Red Teaming](https://github.com/0xJs/RedTeaming_CheatSheet) | Pentesting Cheat Sheet |
+|[SMB Enumeration](https://0xdf.gitlab.io/cheatsheets/smb-enum) | 
