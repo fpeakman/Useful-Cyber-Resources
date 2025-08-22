@@ -12,7 +12,7 @@ A list of free or open source tools or resources that have proven useful over th
   * [Incident Response Tactical](#Incident-response-tactical)
   * [Incident Response Management](#Incident-response-management)
   * [Detection Engineering](#Detection-engineering)
-  * [THreat Hunting](#Threat-Hunting)
+  * [Threat Hunting](#Threat-Hunting)
   * [Cyber Threat Intelligence](#Cyber-Threat-Intelligence)
   * [Deception](#Deception)
   * [SOC](#Security-Operations-centre)
