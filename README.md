@@ -102,7 +102,8 @@ A list of free or open source tools or resources that have proven useful over th
 | --- | --- |
 |[PEAK TH Framework](https://www.splunk.com/en_us/blog/security/peak-threat-hunting-framework.html) | Prepare, Execute and Act with Knowledge |
 |[Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) | Curated list of Thrreat Hunting Resources |
-|[THreat Hunting Lists](https://github.com/mthcht/awesome-lists/tree/main) | Threat Hunting lists a nd keywords |
+|[Threat Hunting Lists](https://github.com/mthcht/awesome-lists/tree/main) | Threat Hunting lists and keywords |
+|[Hunting Exchange and Reasearch Threat Hub](https://github.com/THORCollective/HEARTH) | HEARTH is a centralized, open-source platform for security professionals to share, discover, and collaborate on threat hunting hypotheses |
 
 ### Cyber Threat Intelligence
 | Tool | Description |
@@ -135,6 +136,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Purple Team Framework](https://github.com/scythe-io/purple-team-exercise-framework) | Purple Team Exercise Framework |
 |[Greynoise](https://viz.greynoise.io/) | GreyNoise is a cybersecurity platform that collects and analyzes Internet-wide scan and attack traffic. This data is available through the web-based Visualizer and GreyNoise APIs so users can contextualize existing alerts, filter false positives, identify compromised devices, and track emerging threats |
 |[Guidance for SIEM and SOAR Implementation](https://www.cisa.gov/resources-tools/resources/guidance-siem-and-soar-implementation) | CISA guides for implementing SIEM and SOAR for Executives and practitioners |
+|[
 
 ## Security Testing
 | Tool | Description |
