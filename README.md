@@ -83,6 +83,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[NIST IR Reccomendations](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r3.pdf) | Help organizations incorporate cybersecurity incident response recommendations and considerations throughout their cybersecurity risk management activities |
 |[IR Playbooks](https://github.com/certsocietegenerale/IRM) | List of best practice playbooks for a variety of security incidents |
 |[ADS Strategy Framework](https://github.com/palantir/alerting-detection-strategy-framework) | A framework for developing alerting and detection strategies for incident response |
+|[Practical Ransomware Response](https://m365internals.com/2022/09/19/practical-guidance-for-it-admins-to-respond-to-ransomware-attacks/) | Hire an IR firm. If you are too cheap for that, do this instead |
 
 ### Detection Engineering
 | Tool | Description |
@@ -91,6 +92,12 @@ A list of free or open source tools or resources that have proven useful over th
 |[Hunting Queries and Detection Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) | Library of KQL detection and hunting queries from the excellent [Bert JanP](https://github.com/Bert-JanP) |
 |[Anvillogic Forge](https://github.com/anvilogic-forge/armory) | Library of sigma detection rules |
 |[MAGMa Use Case Framework](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf) | MaGMa: a framework and tool for use case management |
+
+### Threat Hunting
+| Tool | Description |
+| --- | --- |
+|[PEAK TH Framework](https://www.splunk.com/en_us/blog/security/peak-threat-hunting-framework.html) | Prepare, Execute and Act with Knowledge |
+|[Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) | Curated list of Thrreat Hunting Resources |
 
 ### Cyber Threat Intelligence
 | Tool | Description |
@@ -122,6 +129,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[VM Metrics](https://purplesec.us/learn/vulnerability-management-metrics) | The top 10 vulnerability management metrics you should be measuring |
 |[Purple Team Framework](https://github.com/scythe-io/purple-team-exercise-framework) | Purple Team Exercise Framework |
 |[Greynoise](https://viz.greynoise.io/) | GreyNoise is a cybersecurity platform that collects and analyzes Internet-wide scan and attack traffic. This data is available through the web-based Visualizer and GreyNoise APIs so users can contextualize existing alerts, filter false positives, identify compromised devices, and track emerging threats |
+|[Guidance for SIEM and SOAR Implementation](https://www.cisa.gov/resources-tools/resources/guidance-siem-and-soar-implementation) | CISA guides for implementing SIEM and SOAR for Executives and practitioners |
 
 ## Security Testing
 | Tool | Description |
