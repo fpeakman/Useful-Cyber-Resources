@@ -14,7 +14,7 @@ A list of free or open source tools or resources that have proven useful over th
   * [Detection Engineering](#Detection-engineering)
   * [Cyber Threat Intelligence](#Cyber-Threat-Intelligence)
   * [Deception](#Deception)
-  * [SOC](#Security-Operations)
+  * [SOC](#Security-Operations-centre)
 * [Security Testing](#Security-testing)
 * [Block Lists](#Block-Lists)
 * [Organisation OSINT](#Org-OSINT)
