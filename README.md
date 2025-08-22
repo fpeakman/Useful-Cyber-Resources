@@ -121,6 +121,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[VM Metrics](https://www.indusface.com/blog/vulnerability-management-metrics-and-kpis/) | Quantifiable indicators used to measure how well your organization identifies, prioritizes, and remediates vulnerabilities |
 |[VM Metrics](https://purplesec.us/learn/vulnerability-management-metrics) | The top 10 vulnerability management metrics you should be measuring |
 |[Purple Team Framework](https://github.com/scythe-io/purple-team-exercise-framework) | Purple Team Exercise Framework |
+|[Greynoise](https://viz.greynoise.io/) | GreyNoise is a cybersecurity platform that collects and analyzes Internet-wide scan and attack traffic. This data is available through the web-based Visualizer and GreyNoise APIs so users can contextualize existing alerts, filter false positives, identify compromised devices, and track emerging threats |
 
 ## Security Testing
 | Tool | Description |
