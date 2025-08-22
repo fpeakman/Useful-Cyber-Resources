@@ -104,7 +104,7 @@ A list of free or open source tools or resources that have proven useful over th
 ### Deception
 | Tool | Description |
 | --- | --- |
-|[Canary Tokens](https://canarytokens.org/nest/) | Create a Canarytoken. Deploy it somewhere. Know. When it matters |
+|[Canary Tokens](https://canarytokens.org/nest/) | Create a Canarytoken. Deploy it somewhere. Know. When it matters. A excellent and effective method of gaining early warning of intrusions. |
 |[Modern Honeypot Network](https://github.com/pwnlandia/mhn) | Centralized server for management and data collection of honeypots |
 |[Certiception](https://github.com/dmore/Certiception-ADCS-trap) | An ADCS honeypot to catch attackers in your internal network |
 |[Kerberoasting Honeypot](https://www.pentestpartners.com/security-blog/honeyroasting-how-to-detect-kerberoast-breaches-with-honeypots/) | Create and monitor a kerberoastable honeypot to detect this type of attack |
@@ -161,7 +161,7 @@ A list of free or open source tools or resources that have proven useful over th
 ## Lab Resources
 | Tool | Description |
 | --- | --- |
-|[Game of Active Directory](https://mayfly277.github.io/posts/GOADv2/) | Five system forest with vulnerabilities and multiple routes to DA|
+|[Game of Active Directory](https://github.com/Orange-Cyberdefense/GOAD) | GOAD is a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques|
 |[Vulnerable AD](https://github.com/safebuffer/vulnerable-AD) | Inject vulnerabilities in to an AD domain |
 
 ## Cheat Sheets
