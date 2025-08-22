@@ -9,7 +9,8 @@ A list of free or open source tools or resources that have proven useful over th
   * [OS Security](#OS-Security)
   * [Application Security](#application-security)
 * [Security Operations](#Security-Operations)
-  * [Incident Response](#Incident-response)
+  * [Incident Response Tactical](#Incident-response-tactical)
+  * [Incident Response Management](#Incident-response-management)
   * [Detection Engineering](#Detection-engineering)
   * [Cyber Threat Intelligence](#Cyber-Threat-Intelligence)
   * [Deception](#Deception)
@@ -65,7 +66,16 @@ A list of free or open source tools or resources that have proven useful over th
 
 ## Security Operations
 
-### Incident Response
+### Incident Response Tactical
+| Tool | Description |
+| --- | --- |
+|[URLScan](https://urlscan.io/) | urlscan.io is a free service to scan and analyze potentially malicious websites |
+|[Any.Run](https://app.any.run/) | Interactive online malware analysis service for dynamic and static research of most types of threats using any environments |
+|[Talos](https://www.talosintelligence.com/reputation_center) | The Talos Intelligence Center is the world’s most comprehensive real-time threat detection network |
+|[MXToolbox](https://mxtoolbox.com/) | All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool |
+|[VirusTotal](https://www.virustotal.com/gui/home/upload) | Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, *automatically share them with the security community* |
+
+### Incident Response Management
 | Tool | Description |
 | --- | --- |
 |[Microsoft IT Ninja Hub](https://aka.ms/MicrosoftIRNinjaHub) | Microsoft Incident Response Ninja Hub |
@@ -141,6 +151,8 @@ A list of free or open source tools or resources that have proven useful over th
 | Tool | Description |
 | --- | --- |
 |[DNSDumpster](https://dnsdumpster.com/) | DNSDumpster.com is a FREE domain research tool that can discover hosts related to a domain |
+|[Shodan](https://www.shodan.io/) | Shodan is a search engine for Internet-connected devices |
+|[Censys](https://platform.censys.io/home) | Censys provides the most complete view of the entire public-facing internet |
 |[AADInternals OSINT](https://aadinternals.com/osint/) | This Open-source Intelligence (OSINT) tool will extract openly available information for the given tenant |
 |[Internet NL](https://internet.nl/) | Test websites and email addresses for standards |
 |[Cert Search](https://crt.sh/) | Enter a Domain Name, Organization Name, or a Certificate Fingerprint to retrieve a trove of current and historic cert data |
