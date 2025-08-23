@@ -31,6 +31,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Locksmith](https://github.com/jakehildreth/Locksmith) | A small tool built to find and fix common misconfigurations in Active Directory Certificate Services |
 |[Adeliginator](https://github.com/techspence/ADeleginator) | A companion tool that uses ADeleg to find insecure trustee and resource delegations in Active Directory |
 |[Group3r](https://github.com/Group3r/Group3r) | Find vulnerabilities in AD Group Policy |
+|[ADSecurity.org](https://adsecurity.org/) | Sean Metcalf ([@PyroTek3](https://x.com/PyroTek3)) is the Identity Security Architect at TrustedSec. Sean performs Windows, Active Directory, & Entra ID security research, the results of which he shares at conferences and on ADSecurity.org |
 |[AD Attack Defence](https://github.com/infosecn1nja/AD-Attack-Defense) | Informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. |
 |[AD Hardening](https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/active-directory-hardening-series---part-1-%e2%80%93-disabling-ntlmv1/3934787) | Active Directory Hardening Series from Microsoft |
 
