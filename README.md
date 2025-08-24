@@ -14,6 +14,7 @@ A list of free or open source tools or resources that have proven useful over th
   * [Detection Engineering](#Detection-engineering)
   * [Threat Hunting](#Threat-Hunting)
   * [Cyber Threat Intelligence](#Cyber-Threat-Intelligence)
+  * [Vulnerability Management](#vulnerability-management)
   * [Deception](#Deception)
   * [SOC](#Security-Operations-centre)
 * [Security Testing](#Security-testing)
@@ -117,6 +118,13 @@ A list of free or open source tools or resources that have proven useful over th
 |[DarkDump](https://github.com/josh0xA/darkdump) | OSINT interface for carrying out deep web investgations |
 |[DNSTwist](https://dnstwist.it/) | See what sort of trouble users can get in trying to type your domain name. Find lookalike domains that adversaries can use to attack you. Can detect typosquatters, phishing attacks, fraud, and brand impersonation. Useful as an additional source of targeted threat intelligence |
 
+### Vulnerability Management
+| Tool | Description |
+| --- | --- |
+|[OpenCVE](https://github.com/opencve/opencve) | OpenCVE aggregates vulnerabilities from multiple sources and lets you filter, track, and organize them by vendor, product, severity, and more. You can subscribe to products, receive alerts, analyze changes, and collaborate with your team — all through a simple and powerful interface |
+|[VM Metrics](https://www.indusface.com/blog/vulnerability-management-metrics-and-kpis/) | Quantifiable indicators used to measure how well your organization identifies, prioritizes, and remediates vulnerabilities |
+|[VM Metrics](https://purplesec.us/learn/vulnerability-management-metrics) | The top 10 vulnerability management metrics you should be measuring |
+
 ### Deception
 | Tool | Description |
 | --- | --- |
@@ -132,8 +140,6 @@ A list of free or open source tools or resources that have proven useful over th
 |[Awesome SOC](https://github.com/cyb3rxp/awesome-soc) | A collection of sources of documentation, as well as field best practices, to build/run a SOC |
 |[MS Entra SecOps Guide](https://learn.microsoft.com/en-us/entra/architecture/security-operations-introduction) | Microsoft Entra security operations guide |
 |[OpenBAS](https://github.com/OpenBAS-Platform/openbas) | An open source platform allowing organizations to plan, schedule and conduct cyber adversary simulation campaign and tests |
-|[VM Metrics](https://www.indusface.com/blog/vulnerability-management-metrics-and-kpis/) | Quantifiable indicators used to measure how well your organization identifies, prioritizes, and remediates vulnerabilities |
-|[VM Metrics](https://purplesec.us/learn/vulnerability-management-metrics) | The top 10 vulnerability management metrics you should be measuring |
 |[Purple Team Framework](https://github.com/scythe-io/purple-team-exercise-framework) | Purple Team Exercise Framework |
 |[Greynoise](https://viz.greynoise.io/) | GreyNoise is a cybersecurity platform that collects and analyzes Internet-wide scan and attack traffic. This data is available through the web-based Visualizer and GreyNoise APIs so users can contextualize existing alerts, filter false positives, identify compromised devices, and track emerging threats |
 |[Guidance for SIEM and SOAR Implementation](https://www.cisa.gov/resources-tools/resources/guidance-siem-and-soar-implementation) | CISA guides for implementing SIEM and SOAR for Executives and practitioners |
