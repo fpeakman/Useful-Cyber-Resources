@@ -4,7 +4,7 @@ A list of free or open source tools or resources that have proven useful over th
 ## Table of Contents
 * [Security Engineering](#Security-Egineering)
   * [Active Directory Security](#active-directory-security)
-  * [M365 Security](#M365-Security)
+  * [M365 / Entra ID Security](#M365-entra-id-Security)
   * [Azure Security](#Azure-Security)
   * [OS Security](#OS-Security)
   * [Application Security](#application-security)
@@ -36,7 +36,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[AD Attack Defence](https://github.com/infosecn1nja/AD-Attack-Defense) | Informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. |
 |[AD Hardening](https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/active-directory-hardening-series---part-1-%e2%80%93-disabling-ntlmv1/3934787) | Active Directory Hardening Series from Microsoft |
 
-### M365 Security
+### M365 / Entra ID Security
 | Tool | Description |
 | --- | --- |
 |[Conditional Access Baseline](https://github.com/j0eyv/ConditionalAccessBaseline) | [Joey Verlinden's](https://github.com/j0eyv) Conditional access Baseline |
