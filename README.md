@@ -88,7 +88,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Microsoft IT Ninja Hub](https://aka.ms/MicrosoftIRNinjaHub) | Microsoft Incident Response Ninja Hub |
 |[NIST IR Reccomendations](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r3.pdf) | Help organizations incorporate cybersecurity incident response recommendations and considerations throughout their cybersecurity risk management activities |
 |[IR Playbooks](https://github.com/certsocietegenerale/IRM) | List of best practice playbooks for a variety of security incidents |
-|[ADS Strategy Framework](https://github.com/palantir/alerting-detection-strategy-framework) | A framework for developing alerting and detection strategies for incident response |
+|[Alerting and Detection Strategy Framework](https://github.com/palantir/alerting-detection-strategy-framework) | A framework for developing alerting and detection strategies for incident response |
 |[Practical Ransomware Response](https://m365internals.com/2022/09/19/practical-guidance-for-it-admins-to-respond-to-ransomware-attacks/) | Hire an IR firm. If you are too cheap for that, do this instead |
 
 ### Detection Engineering
