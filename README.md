@@ -30,7 +30,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Ping Castle](https://www.pingcastle.com/) | "Get Active Directory Security at 80% in 20% of the time" (See also: [Ping Castle Notify](https://github.com/LuccaSA/PingCastle-Notify))|
 |[Script Sentry](https://github.com/techspence/ScriptSentry) | ScriptSentry finds misconfigured and dangerous logon scripts |
 |[Locksmith](https://github.com/jakehildreth/Locksmith) | A small tool built to find and fix common misconfigurations in Active Directory Certificate Services |
-|[Adeliginator](https://github.com/techspence/ADeleginator) | A companion tool that uses ADeleg to find insecure trustee and resource delegations in Active Directory |
+|[ADeliginator](https://github.com/techspence/ADeleginator) | A companion tool that uses ADeleg to find insecure trustee and resource delegations in Active Directory |
 |[Group3r](https://github.com/Group3r/Group3r) | Find vulnerabilities in AD Group Policy |
 |[ADSecurity.org](https://adsecurity.org/) | Sean Metcalf ([@PyroTek3](https://x.com/PyroTek3)) is the Identity Security Architect at TrustedSec. Sean performs Windows, Active Directory, & Entra ID security research, the results of which he shares at conferences and on ADSecurity.org |
 |[AD Attack Defence](https://github.com/infosecn1nja/AD-Attack-Defense) | Informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. |
