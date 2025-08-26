@@ -151,6 +151,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Responder](https://github.com/lgandx/Responder) | Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication |
 |[SQLMap](https://github.com/sqlmapproject/sqlmap) | sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers |
 |[NetExec](https://github.com/Pennyw0rth/NetExec) | The Network Execution Tool. See: [SMB Checklist](https://0xdf.gitlab.io/cheatsheets/smb-enum) |
+|[LaZagne](https://github.com/AlessandroZ/LaZagne) | "Credential Recovery" tool |
 |[DefendNot](https://github.com/es3n1n/defendnot) | Simple attempt to break Defender |
 |[SecLists](https://github.com/danielmiessler/SecLists/tree/master) | A collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more |
 
