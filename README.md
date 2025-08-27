@@ -183,7 +183,6 @@ A list of free or open source tools or resources that have proven useful over th
 |[AADInternals OSINT](https://aadinternals.com/osint/) | This Open-source Intelligence (OSINT) tool will extract openly available information for the given tenant |
 |[Internet NL](https://internet.nl/) | Test websites and email addresses for standards |
 |[Cert Search](https://crt.sh/) | Enter a Domain Name, Organization Name, or a Certificate Fingerprint to retrieve a trove of current and historic cert data |
-|[NetBlockTool](https://www.netspi.com/blog/technical-blog/network-penetration-testing/netblocktool/) | Find Net Blocks owned by a company and its subsidiaries |
 
 ## Lab Resources
 | Tool | Description |
