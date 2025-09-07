@@ -22,6 +22,7 @@ A list of free or open source tools or resources that have proven useful over th
 * [Organisation OSINT](#Org-OSINT)
 * [Lab Resources](#lab-resources)
 * [Cheat Sheets](#Cheat-Sheets)
+* [Misc Guides](#Misc-Guides)
 
 ## Security Engineering
 ### Active Directory Security
@@ -201,3 +202,8 @@ A list of free or open source tools or resources that have proven useful over th
 |[Privilege Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) | This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples |
 |[Red Teaming](https://github.com/0xJs/RedTeaming_CheatSheet) | Pentesting Cheat Sheet |
 |[SMB Enumeration](https://0xdf.gitlab.io/cheatsheets/smb-enum) | 
+
+## Misc Guides
+| Tool | Description |
+| --- | --- |
+|[Defender XDR Setting Management](https://docs.kaidojarvemets.com/defender-xdr-settings-management.html) | Complete Implementation Guide with Azure Arc Integration and Sentinel Monitoring |
