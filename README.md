@@ -18,6 +18,7 @@ A list of free or open source tools or resources that have proven useful over th
   * [Deception](#Deception)
   * [SOC](#Security-Operations-centre)
 * [Security Testing](#Security-testing)
+* [Table Top Exercises](#Table-top-exercises)
 * [Block Lists](#Block-Lists)
 * [Organisation OSINT](#Org-OSINT)
 * [Lab Resources](#lab-resources)
@@ -167,6 +168,10 @@ A list of free or open source tools or resources that have proven useful over th
 |[CISO Assistant](https://github.com/intuitem/ciso-assistant-community) | CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec, Compliance/Audit Management, Privacy and supporting +100 frameworks |
 |[Mergers and Acquisitions](https://www.microsoft.com/en-us/security/blog/2022/11/02/microsoft-security-tips-for-mitigating-risk-in-mergers-and-acquisitions/) | Security tips for mitigating risk in mergers and acquisitions |
 
+# Table Top Exercises
+| Tool | Description |
+| --- | --- |
+|[M365 Scorched Earth](https://ericazelic.medium.com/scorched-earth-m365-and-saas-disaster-recovery-tabletop-exercise-6ea9360fc265) | Scorched Earth: M365 and SaaS Disaster Recovery Tabletop Exercise |
 
 ## Block Lists 
 | Blocklist | Confidence | Description |
