@@ -214,3 +214,4 @@ A list of free or open source tools or resources that have proven useful over th
 | Tool | Description |
 | --- | --- |
 |[Defender XDR Setting Management](https://docs.kaidojarvemets.com/defender-xdr-settings-management.html) | Complete Implementation Guide with Azure Arc Integration and Sentinel Monitoring |
+|[Demystifying KQL](https://github.com/ml58158/Demystifying-KQL/blob/main/Demystifying-KQL.pdf) | |
