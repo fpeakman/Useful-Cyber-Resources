@@ -214,5 +214,6 @@ A list of free or open source tools or resources that have proven useful over th
 | Tool | Description |
 | --- | --- |
 |[Defender XDR Setting Management](https://docs.kaidojarvemets.com/defender-xdr-settings-management.html) | Complete Implementation Guide with Azure Arc Integration and Sentinel Monitoring |
+|[ASRGen](https://asrgen.streamlit.app/) | This project is a comprehensive suite of tools and resources designed to aid in understanding and configuring ASR rules in Microsoft Defender |
 |[Demystifying KQL](https://github.com/ml58158/Demystifying-KQL/blob/main/Demystifying-KQL.pdf) | |
 |[Purview Deployment Models](https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-overview#audience) | Deployment models are scenario-based and contain: Purview deployment blueprint, Presentation and Guide |
