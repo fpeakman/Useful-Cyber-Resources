@@ -210,6 +210,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Privilege Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) | This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples |
 |[Red Teaming](https://github.com/0xJs/RedTeaming_CheatSheet) | Pentesting Cheat Sheet |
 |[SMB Enumeration](https://0xdf.gitlab.io/cheatsheets/smb-enum) | 
+|[RExpository](https://jaimepolop.github.io/RExpository/) | RExpository contains a wide variety of regular expressions, organized by category, to help you find the perfect expression. These regular expressions can be used in a variety of APIs or applications |
 
 ## Misc Guides
 | Tool | Description |
