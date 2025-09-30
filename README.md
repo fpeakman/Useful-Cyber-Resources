@@ -173,6 +173,8 @@ A list of free or open source tools or resources that have proven useful over th
 | Tool | Description |
 | --- | --- |
 |[M365 Scorched Earth](https://ericazelic.medium.com/scorched-earth-m365-and-saas-disaster-recovery-tabletop-exercise-6ea9360fc265) | Scorched Earth: M365 and SaaS Disaster Recovery Tabletop Exercise |
+|[NCSC Exercise in a Box](https://www.ncsc.gov.uk/section/exercise-in-a-box/overview) | A free resource to help organisations rehearse their response to cyber attacks |
+|[CISA Tabletop Exercise Packages](https://www.cisa.gov/resources-tools/services/cisa-tabletop-exercise-packages) | CISA Tabletop Exercise Packages (CTEP) are a comprehensive set of resources designed to assist stakeholders in conducting their own exercises |
 
 ## Block Lists 
 | Blocklist | Confidence | Description |
