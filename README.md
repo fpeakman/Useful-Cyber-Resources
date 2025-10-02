@@ -61,6 +61,7 @@ A list of free or open source tools or resources that have proven useful over th
 ### OS Security
 | Tool | Description |
 | --- | --- |
+|[MSRC-PatchReview](https://github.com/f-bader/MSRC-PatchReview) | Powershell script to review Microsoft Patch Tuesday |
 |[Harden Windows Security](https://github.com/HotCakeX/Harden-Windows-Security) | Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation |
 |[PrivEscCheck](https://github.com/itm4n/PrivescCheck) | Windows. Privilege Escalation Enumeration Script for Windows |
 |[Security Hardening](https://github.com/decalage2/awesome-security-hardening) | Various. Security hardening guides, best practices, checklists, benchmarks, tools and other resources |
