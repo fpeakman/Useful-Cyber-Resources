@@ -222,3 +222,4 @@ A list of free or open source tools or resources that have proven useful over th
 |[ASRGen](https://asrgen.streamlit.app/) | This project is a comprehensive suite of tools and resources designed to aid in understanding and configuring ASR rules in Microsoft Defender |
 |[Demystifying KQL](https://github.com/ml58158/Demystifying-KQL/blob/main/Demystifying-KQL.pdf) | |
 |[Purview Deployment Models](https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-overview#audience) | Deployment models are scenario-based and contain: Purview deployment blueprint, Presentation and Guide |
+|[IE HSE Cyber Incident Lessons Learned](https://www.hhs.gov/sites/default/files/lessons-learned-hse-attack.pdf) | Lessons Learned from the HSE Cyber Attack |
