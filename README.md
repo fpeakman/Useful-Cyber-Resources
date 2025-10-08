@@ -2,7 +2,7 @@
 A list of free or open source tools or resources that have proven useful over the years.
 
 ## Table of Contents
-* [Security Engineering](#Security-Egineering)
+* [Security Engineering](#Security-Engineering)
   * [Active Directory Security](#active-directory-security)
   * [M365 / Entra ID Security](#m365--entra-id-security)
   * [Azure Security](#Azure-Security)
