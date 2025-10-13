@@ -204,6 +204,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[Game of Active Directory](https://github.com/Orange-Cyberdefense/GOAD) | GOAD is a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques|
 |[Vulnerable AD](https://github.com/safebuffer/vulnerable-AD) | Inject vulnerabilities in to an AD domain |
 |[Security Onion](https://github.com/Security-Onion-Solutions/securityonion/blob/2.4/main/DOWNLOAD_AND_VERIFY_ISO.md) | Can be installed stand-alone with example data for analysis |
+|[ADLab](https://github.com/PyroTek3/ADLab) | A collection of Active Directory lab scripts |
 
 ## Cheat Sheets
 | Sheet | Description |
