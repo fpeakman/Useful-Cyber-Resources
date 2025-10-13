@@ -101,6 +101,7 @@ A list of free or open source tools or resources that have proven useful over th
 | Tool | Description |
 | --- | --- |
 |[DetEng Resources](https://github.com/infosecB/awesome-detection-engineering) | Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization |
+|[OpenTide](https://github.com/opentidehq/) | Open Threat Informed Detection Engineering is a comprehensive framework to enable Threat & Detection Modelling and Detection-as-Code in a unified workflow |
 |[Hunting Queries and Detection Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) | Library of KQL detection and hunting queries from the excellent [Bert JanP](https://github.com/Bert-JanP) |
 |[Anvillogic Forge](https://github.com/anvilogic-forge/armory) | Library of sigma detection rules |
 |[MAGMa Use Case Framework](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf) | MaGMa: a framework and tool for use case management |
