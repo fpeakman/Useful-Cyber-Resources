@@ -227,3 +227,8 @@ A list of free or open source tools or resources that have proven useful over th
 |[Demystifying KQL](https://github.com/ml58158/Demystifying-KQL/blob/main/Demystifying-KQL.pdf) | |
 |[Purview Deployment Models](https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-overview#audience) | Deployment models are scenario-based and contain: Purview deployment blueprint, Presentation and Guide |
 |[IE HSE Cyber Incident Lessons Learned](https://www.hhs.gov/sites/default/files/lessons-learned-hse-attack.pdf) | Lessons Learned from the HSE Cyber Attack |
+
+## Misc Tools
+| Tool | Description |
+| --- | --- |
+|[MDE Monitoring App](https://github.com/chlaplan/MDE-Monitoring-App) | A Windows (.NET 8 WPF) desktop dashboard providing a consolidated operational view of Microsoft Defender for Endpoint (MDE) state on the local machine |
