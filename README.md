@@ -24,6 +24,7 @@ A list of free or open source tools or resources that have proven useful over th
 * [Lab Resources](#lab-resources)
 * [Cheat Sheets](#Cheat-Sheets)
 * [Misc Guides](#Misc-Guides)
+* [Misc Tools](#misc-tools)
 
 ## Security Engineering
 ### Active Directory Security
@@ -233,3 +234,4 @@ A list of free or open source tools or resources that have proven useful over th
 | Tool | Description |
 | --- | --- |
 |[MDE Monitoring App](https://github.com/chlaplan/MDE-Monitoring-App) | A Windows (.NET 8 WPF) desktop dashboard providing a consolidated operational view of Microsoft Defender for Endpoint (MDE) state on the local machine |
+|[LogExpert](https://github.com/LogExperts/LogExpert) | Windows tail program and log file analyzer |
