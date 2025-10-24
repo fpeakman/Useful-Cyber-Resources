@@ -197,7 +197,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[DNSDumpster](https://dnsdumpster.com/) | DNSDumpster.com is a FREE domain research tool that can discover hosts related to a domain |
 |[Shodan](https://www.shodan.io/) | Shodan is a search engine for Internet-connected devices |
 |[Censys](https://platform.censys.io/home) | Censys provides the most complete view of the entire public-facing internet |
-|[AADInternals OSINT](https://aadinternals.com/osint/) | This Open-source Intelligence (OSINT) tool will extract openly available information for the given tenant |
+|[AADInternals OSINT](https://aadinternals.com/osint/) | This Open-source Intelligence (OSINT) tool will extract openly available information for the given tenant (now requires authentication) |
 |[Internet NL](https://internet.nl/) | Test websites and email addresses for standards |
 |[Cert Search](https://crt.sh/) | Enter a Domain Name, Organization Name, or a Certificate Fingerprint to retrieve a trove of current and historic cert data |
 
