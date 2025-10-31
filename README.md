@@ -93,6 +93,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[MXToolbox](https://mxtoolbox.com/) | All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool |
 |[VirusTotal](https://www.virustotal.com/gui/home/upload) | Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, *automatically share them with the security community* |
 |[SOCRadar](https://socradar.io/labs/) | SOCRadar LABS is a new and developing platform which informs users about existing and possible cyber threats with the help of several cyber threat intelligence services |
+|[AbuseIPDB](https://www.abuseipdb.com/) | AbuseIPDB is a project dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet |
 
 ### Incident Response Management
 | Tool | Description |
