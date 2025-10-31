@@ -233,8 +233,9 @@ A list of free or open source tools or resources that have proven useful over th
 |[Purview Deployment Models](https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-overview#audience) | Deployment models are scenario-based and contain: Purview deployment blueprint, Presentation and Guide |
 |[IE HSE Cyber Incident Lessons Learned](https://www.hhs.gov/sites/default/files/lessons-learned-hse-attack.pdf) | Lessons Learned from the HSE Cyber Attack |
 
-## Misc Tools
+## Misc
 | Tool | Description |
 | --- | --- |
 |[MDE Monitoring App](https://github.com/chlaplan/MDE-Monitoring-App) | A Windows (.NET 8 WPF) desktop dashboard providing a consolidated operational view of Microsoft Defender for Endpoint (MDE) state on the local machine |
 |[LogExpert](https://github.com/LogExperts/LogExpert) | Windows tail program and log file analyzer |
+|[Free Certifications](https://github.com/cloudcommunity/Free-Certifications) | Curated list of free training and certifications |
