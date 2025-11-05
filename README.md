@@ -54,6 +54,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[AzureAD Attack Defence](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) | This publication is a collection of various common attack scenarios on Microsoft Entra ID (formerly known as Azure Active Directory) and how they can be mitigated or detected |
 |[NoPrompt](https://github.com/NotSoSecure/NoPrompt) | NoPrompt is a lightweight security testing tool that checks if Microsoft Entra ID (Azure AD) APIs and login portals allow password-only authentication — meaning access with just a username and password, without requiring Multi-Factor Authentication (MFA) |
 |[AzureHound](https://github.com/SpecterOps/AzureHound) | Azure Data Exporter for BloodHound |
+|[SecOps for Entra ID](https://learn.microsoft.com/en-us/entra/architecture/security-operations-introduction) | Microsoft Entra security operations guide |
 
 ### Azure Security
 | Tool | Description |
