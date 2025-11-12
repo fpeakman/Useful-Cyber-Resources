@@ -218,6 +218,7 @@ A list of free or open source tools or resources that have proven useful over th
 ## Cheat Sheets
 | Sheet | Description |
 | --- | --- |
+|[AV Event Analysis](https://www.nextron-systems.com/2024/11/02/antivirus-event-analysis-cheat-sheet-v1-14-0/) | AV Event Analysis Cheat Sheet by FLorian Roth |
 |[OWASP](https://cheatsheetseries.owasp.org/) | The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics.|
 |[Application Security](https://0xn3va.gitbook.io/cheat-sheets) | A list of cheat sheets for application security. Android, CI/CD, AWS, Container, Linux, Web Apps, Web Application |
 |[Reverse Shell](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) | Reverse Shell Cheat Sheet |
