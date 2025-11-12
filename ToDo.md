@@ -13,5 +13,5 @@ https://infosecwriteups.com/enriching-microsoft-sentinel-incidents-with-alienvau
 ## DevOps
 [AWS Zero to Hero in 30 days with projects, presentations, interview questions](https://www.opensourceprojects.dev/post/1984152796569239659)
 
-##OSINT
+## OSINT
 [Social Analyser](https://www.opensourceprojects.dev/post/1983404056732414416)
