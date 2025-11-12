@@ -162,7 +162,7 @@ A list of free or open source tools or resources that have proven useful over th
 ## Security Testing
 | Tool | Description |
 | --- | --- |
-|[DevSecOps Library](https://github.com/sottlmarek/DevSecOps) | Curated and maintained library of DevSecOps tools and resources |
+|[MS Zero Trust Assessment](https://learn.microsoft.com/en-gb/security/zero-trust/assessment/overview) | The Zero Trust Assessment uses automation to test for hundreds of security configuration items aligned with the Secure Future Initiative (SFI) and Zero Trust pillars, then guides you through remediation steps to help operationalize Zero Trust principles |
 |[Impacket](https://github.com/fortra/impacket) | Impacket is a collection of Python classes for working with network protocols. Impacket is focused on providing low-level programmatic access to the packets and for some protocols (e.g. SMB1-3 and MSRPC) the protocol implementation itself |
 |[Responder](https://github.com/lgandx/Responder) | Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication |
 |[SQLMap](https://github.com/sqlmapproject/sqlmap) | sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers |
