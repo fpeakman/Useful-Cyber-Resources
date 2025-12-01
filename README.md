@@ -55,6 +55,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[NoPrompt](https://github.com/NotSoSecure/NoPrompt) | NoPrompt is a lightweight security testing tool that checks if Microsoft Entra ID (Azure AD) APIs and login portals allow password-only authentication — meaning access with just a username and password, without requiring Multi-Factor Authentication (MFA) |
 |[AzureHound](https://github.com/SpecterOps/AzureHound) | Azure Data Exporter for BloodHound |
 |[SecOps for Entra ID](https://learn.microsoft.com/en-us/entra/architecture/security-operations-introduction) | Microsoft Entra security operations guide |
+|[Entrascope.com](https://entrascopes.com/) | Browse and explore first-party applications including their pre-consented permissions in Microsoft Entra ID |
 
 ### Azure Security
 | Tool | Description |
