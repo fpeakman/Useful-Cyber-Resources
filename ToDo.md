@@ -15,3 +15,6 @@ https://infosecwriteups.com/enriching-microsoft-sentinel-incidents-with-alienvau
 
 ## OSINT
 [Social Analyser](https://www.opensourceprojects.dev/post/1983404056732414416)
+
+## ARTICLEs
+[CAP bypasses](https://cloudbrothers.info/en/conditional-access-bypasses/)
