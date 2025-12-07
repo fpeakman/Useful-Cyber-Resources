@@ -18,3 +18,4 @@ https://infosecwriteups.com/enriching-microsoft-sentinel-incidents-with-alienvau
 
 ## ARTICLEs
 [CAP bypasses](https://cloudbrothers.info/en/conditional-access-bypasses/)
+[Intune Sync and Policy Delivery](https://patchmypc.com/blog/intune-policy-delivery-debugging-the-8-hour-sync-myth/)
