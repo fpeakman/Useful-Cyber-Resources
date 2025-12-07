@@ -160,7 +160,8 @@ A list of free or open source tools or resources that have proven useful over th
 |[Purple Team Framework](https://github.com/scythe-io/purple-team-exercise-framework) | Purple Team Exercise Framework |
 |[Greynoise](https://viz.greynoise.io/) | GreyNoise is a cybersecurity platform that collects and analyzes Internet-wide scan and attack traffic. This data is available through the web-based Visualizer and GreyNoise APIs so users can contextualize existing alerts, filter false positives, identify compromised devices, and track emerging threats |
 |[Guidance for SIEM and SOAR Implementation](https://www.cisa.gov/resources-tools/resources/guidance-siem-and-soar-implementation) | CISA guides for implementing SIEM and SOAR for Executives and practitioners |
-
+|[AwesomeSOAR](https://github.com/correlatedsecurity/Awesome-SOAR) | A curated Cyber "Security Orchestration, Automation and Response (SOAR)" awesome list |
+|[Cybersecurity-SOAR](https://github.com/paulveillard/cybersecurity-SOAR) | A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Security Orchestration, Automation and Response (SOAR) |
 ## Security Testing
 | Tool | Description |
 | --- | --- |
