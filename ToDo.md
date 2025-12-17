@@ -17,6 +17,7 @@ https://infosecwriteups.com/enriching-microsoft-sentinel-incidents-with-alienvau
 [Social Analyser](https://www.opensourceprojects.dev/post/1983404056732414416)
 
 ## ARTICLEs
-[CAP bypasses](https://cloudbrothers.info/en/conditional-access-bypasses/)
-[Intune Sync and Policy Delivery](https://patchmypc.com/blog/intune-policy-delivery-debugging-the-8-hour-sync-myth/)
-[Powershell Secret Management](https://blog.admindroid.com/best-methods-to-securely-store-passwords-for-automated-powershell-scripts)
+[CAP bypasses](https://cloudbrothers.info/en/conditional-access-bypasses/)  
+[Intune Sync and Policy Delivery](https://patchmypc.com/blog/intune-policy-delivery-debugging-the-8-hour-sync-myth/)  
+[Powershell Secret Management](https://blog.admindroid.com/best-methods-to-securely-store-passwords-for-automated-powershell-scripts)  
+[Intune Sync](https://patchmypc.com/blog/how-windows-intune-really-syncs-policies-vs-apps/)  
