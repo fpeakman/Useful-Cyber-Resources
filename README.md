@@ -97,6 +97,7 @@ A list of free or open source tools or resources that have proven useful over th
 |[SOCRadar](https://socradar.io/labs/) | SOCRadar LABS is a new and developing platform which informs users about existing and possible cyber threats with the help of several cyber threat intelligence services |
 |[AbuseIPDB](https://www.abuseipdb.com/) | AbuseIPDB is a project dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet |
 [OpenProject](https://github.com/DebugPrivilege/OpenProject) | A practical resource on using open-source tools for Incident Response. This repo shares workflows, tool setups, and steps for responding quickly to security incidents |
+|[KustoHawk](https://github.com/Bert-JanP/KustoHawk/) | KustoHawk is a lightweight incident triage and response tool designed for effective incident response in Microsoft Defender XDR and Microsoft Sentinel environments |
 
 ### Incident Response Management
 | Tool | Description |
