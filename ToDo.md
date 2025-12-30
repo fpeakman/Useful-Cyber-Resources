@@ -21,3 +21,6 @@ https://infosecwriteups.com/enriching-microsoft-sentinel-incidents-with-alienvau
 [Intune Sync and Policy Delivery](https://patchmypc.com/blog/intune-policy-delivery-debugging-the-8-hour-sync-myth/)  
 [Powershell Secret Management](https://blog.admindroid.com/best-methods-to-securely-store-passwords-for-automated-powershell-scripts)  
 [Intune Sync](https://patchmypc.com/blog/how-windows-intune-really-syncs-policies-vs-apps/)  
+
+## MISC
+[Exploring HTTPS with Python](https://realpython.com/python-https/)
